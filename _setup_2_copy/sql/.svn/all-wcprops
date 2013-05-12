@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/879/trunk/eshop/setup/sql
+END
+en.sql
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/879/trunk/eshop/setup/sql/en.sql
+END
+database.sql
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/setup/sql/database.sql
+END
+demodata.sql
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/setup/sql/demodata.sql
+END
+latin1_to_utf8.sql
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/592/trunk/eshop/setup/sql/latin1_to_utf8.sql
+END

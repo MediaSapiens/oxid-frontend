@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/879/trunk/eshop/out/basic/tpl/inc
+END
+salutation.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/261/trunk/eshop/out/basic/tpl/inc/salutation.tpl
+END
+guestbook_locator.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/498/trunk/eshop/out/basic/tpl/inc/guestbook_locator.tpl
+END
+bookmarks.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/261/trunk/eshop/out/basic/tpl/inc/bookmarks.tpl
+END
+category_options.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/879/trunk/eshop/out/basic/tpl/inc/category_options.tpl
+END
+error.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/261/trunk/eshop/out/basic/tpl/inc/error.tpl
+END
+cmp_newsletter.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/290/trunk/eshop/out/basic/tpl/inc/cmp_newsletter.tpl
+END
+popup_basket.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/560/trunk/eshop/out/basic/tpl/inc/popup_basket.tpl
+END
+category_tree.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/879/trunk/eshop/out/basic/tpl/inc/category_tree.tpl
+END
+tags.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/558/trunk/eshop/out/basic/tpl/inc/tags.tpl
+END
+recomm_lists.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/498/trunk/eshop/out/basic/tpl/inc/recomm_lists.tpl
+END
+popup_fblogin.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/311/trunk/eshop/out/basic/tpl/inc/popup_fblogin.tpl
+END
+account_header.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/879/trunk/eshop/out/basic/tpl/inc/account_header.tpl
+END
+rightlist.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/498/trunk/eshop/out/basic/tpl/inc/rightlist.tpl
+END
+compare_locator.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/498/trunk/eshop/out/basic/tpl/inc/compare_locator.tpl
+END
+manufacturer_tree.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/261/trunk/eshop/out/basic/tpl/inc/manufacturer_tree.tpl
+END
+cmp_news.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/879/trunk/eshop/out/basic/tpl/inc/cmp_news.tpl
+END
+steps_item.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/528/trunk/eshop/out/basic/tpl/inc/steps_item.tpl
+END
+vendor_tree.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/261/trunk/eshop/out/basic/tpl/inc/vendor_tree.tpl
+END
+recommlist.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/498/trunk/eshop/out/basic/tpl/inc/recommlist.tpl
+END
+msg_basket.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/261/trunk/eshop/out/basic/tpl/inc/msg_basket.tpl
+END
+product.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/879/trunk/eshop/out/basic/tpl/inc/product.tpl
+END
+cmp_lang.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/261/trunk/eshop/out/basic/tpl/inc/cmp_lang.tpl
+END
+del_time.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/498/trunk/eshop/out/basic/tpl/inc/del_time.tpl
+END
+trustedshops_item.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/879/trunk/eshop/out/basic/tpl/inc/trustedshops_item.tpl
+END
+sort_guestbook.snippet.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/261/trunk/eshop/out/basic/tpl/inc/sort_guestbook.snippet.tpl
+END
+list_locator.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/498/trunk/eshop/out/basic/tpl/inc/list_locator.tpl
+END
+state_selector.snippet.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/879/trunk/eshop/out/basic/tpl/inc/state_selector.snippet.tpl
+END
+top_items.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/498/trunk/eshop/out/basic/tpl/inc/top_items.tpl
+END
+infobox.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/261/trunk/eshop/out/basic/tpl/inc/infobox.tpl
+END
+bargain_items.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/290/trunk/eshop/out/basic/tpl/inc/bargain_items.tpl
+END
+variant_selector.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/498/trunk/eshop/out/basic/tpl/inc/variant_selector.tpl
+END
+popup_zoom.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/498/trunk/eshop/out/basic/tpl/inc/popup_zoom.tpl
+END
+cmp_login.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/657/trunk/eshop/out/basic/tpl/inc/cmp_login.tpl
+END
+sort.snippet.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/498/trunk/eshop/out/basic/tpl/inc/sort.snippet.tpl
+END
+details_locator.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/879/trunk/eshop/out/basic/tpl/inc/details_locator.tpl
+END
+popup_fblogin_msg.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/311/trunk/eshop/out/basic/tpl/inc/popup_fblogin_msg.tpl
+END
+right_recommlist.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/261/trunk/eshop/out/basic/tpl/inc/right_recommlist.tpl
+END
+admin_banner.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/303/trunk/eshop/out/basic/tpl/inc/admin_banner.tpl
+END
+ts_ratings.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/317/trunk/eshop/out/basic/tpl/inc/ts_ratings.tpl
+END
+media.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/261/trunk/eshop/out/basic/tpl/inc/media.tpl
+END

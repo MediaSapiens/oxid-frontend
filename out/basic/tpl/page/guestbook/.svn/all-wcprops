@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/498/trunk/eshop/out/basic/tpl/page/guestbook
+END
+guestbook.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/498/trunk/eshop/out/basic/tpl/page/guestbook/guestbook.tpl
+END
+guestbookentry.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/498/trunk/eshop/out/basic/tpl/page/guestbook/guestbookentry.tpl
+END
+guestbook_login.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/498/trunk/eshop/out/basic/tpl/page/guestbook/guestbook_login.tpl
+END

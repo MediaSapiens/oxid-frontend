@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/879/trunk/eshop/admin/reports
+END
+report_searchstrings.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/879/trunk/eshop/admin/reports/report_searchstrings.php
+END
+report_conversion_rate.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/879/trunk/eshop/admin/reports/report_conversion_rate.php
+END
+report_user_per_group.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/879/trunk/eshop/admin/reports/report_user_per_group.php
+END
+report_top_clicked_categories.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/879/trunk/eshop/admin/reports/report_top_clicked_categories.php
+END
+report_top_viewed_products.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/879/trunk/eshop/admin/reports/report_top_viewed_products.php
+END
+report_base.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/879/trunk/eshop/admin/reports/report_base.php
+END
+report_canceled_orders.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/643/trunk/eshop/admin/reports/report_canceled_orders.php
+END
+report_visitor_absolute.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/879/trunk/eshop/admin/reports/report_visitor_absolute.php
+END

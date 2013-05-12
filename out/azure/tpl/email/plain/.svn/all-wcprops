@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/879/trunk/eshop/out/azure/tpl/email/plain
+END
+suggest.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/498/trunk/eshop/out/azure/tpl/email/plain/suggest.tpl
+END
+register.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/498/trunk/eshop/out/azure/tpl/email/plain/register.tpl
+END
+order_owner.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/879/trunk/eshop/out/azure/tpl/email/plain/order_owner.tpl
+END
+newsletteroptin.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/498/trunk/eshop/out/azure/tpl/email/plain/newsletteroptin.tpl
+END
+sendednow.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/879/trunk/eshop/out/azure/tpl/email/plain/sendednow.tpl
+END
+wishlist.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/498/trunk/eshop/out/azure/tpl/email/plain/wishlist.tpl
+END
+order_cust.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/879/trunk/eshop/out/azure/tpl/email/plain/order_cust.tpl
+END
+pricealarm_owner.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/558/trunk/eshop/out/azure/tpl/email/plain/pricealarm_owner.tpl
+END
+forgotpwd.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/498/trunk/eshop/out/azure/tpl/email/plain/forgotpwd.tpl
+END
+invite.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/498/trunk/eshop/out/azure/tpl/email/plain/invite.tpl
+END

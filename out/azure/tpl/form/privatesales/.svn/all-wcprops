@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/879/trunk/eshop/out/azure/tpl/form/privatesales
+END
+basketexcl.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/498/trunk/eshop/out/azure/tpl/form/privatesales/basketexcl.tpl
+END
+accept_terms.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/540/trunk/eshop/out/azure/tpl/form/privatesales/accept_terms.tpl
+END
+invite.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/879/trunk/eshop/out/azure/tpl/form/privatesales/invite.tpl
+END

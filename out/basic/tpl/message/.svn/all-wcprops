@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/out/basic/tpl/message
+END
+err_unknown.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/498/trunk/eshop/out/basic/tpl/message/err_unknown.tpl
+END
+err_setup.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/498/trunk/eshop/out/basic/tpl/message/err_setup.tpl
+END
+err_update.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/498/trunk/eshop/out/basic/tpl/message/err_update.tpl
+END
+err_404.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/498/trunk/eshop/out/basic/tpl/message/err_404.tpl
+END

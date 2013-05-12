@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/879/trunk/eshop/core/smarty
+END
+Smarty_Compiler.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/261/trunk/eshop/core/smarty/Smarty_Compiler.class.php
+END
+debug.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/261/trunk/eshop/core/smarty/debug.tpl
+END
+smarty_copyright.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/261/trunk/eshop/core/smarty/smarty_copyright.txt
+END
+Smarty.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/261/trunk/eshop/core/smarty/Smarty.class.php
+END
+COPYING.lib
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/261/trunk/eshop/core/smarty/COPYING.lib
+END
+Config_File.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/261/trunk/eshop/core/smarty/Config_File.class.php
+END

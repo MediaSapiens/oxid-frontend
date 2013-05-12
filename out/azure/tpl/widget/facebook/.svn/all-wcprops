@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/facebook
+END
+share.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/498/trunk/eshop/out/azure/tpl/widget/facebook/share.tpl
+END
+init.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/facebook/init.tpl
+END
+like.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/facebook/like.tpl
+END
+comments.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/558/trunk/eshop/out/azure/tpl/widget/facebook/comments.tpl
+END
+enable.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/facebook/enable.tpl
+END
+facepile.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/facebook/facepile.tpl
+END
+livestream.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/facebook/livestream.tpl
+END
+invite.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/558/trunk/eshop/out/azure/tpl/widget/facebook/invite.tpl
+END

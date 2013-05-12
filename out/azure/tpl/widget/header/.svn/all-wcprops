@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/header
+END
+loginbox.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/header/loginbox.tpl
+END
+currencies.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/514/trunk/eshop/out/azure/tpl/widget/header/currencies.tpl
+END
+search.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/header/search.tpl
+END
+languages.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/558/trunk/eshop/out/azure/tpl/widget/header/languages.tpl
+END
+topcategories.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/header/topcategories.tpl
+END
+servicebox.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/header/servicebox.tpl
+END

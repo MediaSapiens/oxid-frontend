@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/!svn/ver/879/trunk/eshop/views
+END
+vendorlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/879/trunk/eshop/views/vendorlist.php
+END
+account_recommlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/879/trunk/eshop/views/account_recommlist.php
+END
+oxcmp_categories.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/879/trunk/eshop/views/oxcmp_categories.php
+END
+info.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/879/trunk/eshop/views/info.php
+END
+recommadd.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/879/trunk/eshop/views/recommadd.php
+END
+newsletter.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/879/trunk/eshop/views/newsletter.php
+END
+tags.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/879/trunk/eshop/views/tags.php
+END
+tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/879/trunk/eshop/views/tpl.php
+END
+thankyou.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/879/trunk/eshop/views/thankyou.php
+END
+oxstart.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/643/trunk/eshop/views/oxstart.php
+END
+search.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/879/trunk/eshop/views/search.php
+END
+oxubase.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/879/trunk/eshop/views/oxubase.php
+END
+wishlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/879/trunk/eshop/views/wishlist.php
+END
+oxviewconfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/views/oxviewconfig.php
+END
+moredetails.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/views/moredetails.php
+END
+content.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/879/trunk/eshop/views/content.php
+END
+tag.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/879/trunk/eshop/views/tag.php
+END
+news.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/879/trunk/eshop/views/news.php
+END
+account_password.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/879/trunk/eshop/views/account_password.php
+END
+recommlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/879/trunk/eshop/views/recommlist.php
+END
+pricealarm.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/879/trunk/eshop/views/pricealarm.php
+END
+links.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/879/trunk/eshop/views/links.php
+END
+oxshopcontrol.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/879/trunk/eshop/views/oxshopcontrol.php
+END
+oxview.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/879/trunk/eshop/views/oxview.php
+END
+suggest.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/879/trunk/eshop/views/suggest.php
+END
+oxcmp_news.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/879/trunk/eshop/views/oxcmp_news.php
+END
+details.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/879/trunk/eshop/views/details.php
+END
+oxcmp_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/643/trunk/eshop/views/oxcmp_lang.php
+END
+account_order.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/879/trunk/eshop/views/account_order.php
+END
+wrapping.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/879/trunk/eshop/views/wrapping.php
+END
+manufacturerlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/879/trunk/eshop/views/manufacturerlist.php
+END
+account_noticelist.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/879/trunk/eshop/views/account_noticelist.php
+END
+account_user.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/views/account_user.php
+END
+contact.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/879/trunk/eshop/views/contact.php
+END
+account.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/879/trunk/eshop/views/account.php
+END
+start.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/879/trunk/eshop/views/start.php
+END
+invite.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/879/trunk/eshop/views/invite.php
+END
+oxcmp_cur.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/643/trunk/eshop/views/oxcmp_cur.php
+END
+review.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/879/trunk/eshop/views/review.php
+END
+guestbook.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/879/trunk/eshop/views/guestbook.php
+END
+oxcmp_utils.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/643/trunk/eshop/views/oxcmp_utils.php
+END
+rss.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/879/trunk/eshop/views/rss.php
+END
+account_newsletter.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/879/trunk/eshop/views/account_newsletter.php
+END
+exceptionerror.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/643/trunk/eshop/views/exceptionerror.php
+END
+basket.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/879/trunk/eshop/views/basket.php
+END
+oxlocator.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/879/trunk/eshop/views/oxlocator.php
+END
+order.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/879/trunk/eshop/views/order.php
+END
+forgotpwd.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/879/trunk/eshop/views/forgotpwd.php
+END
+alist.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/879/trunk/eshop/views/alist.php
+END
+payment.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/879/trunk/eshop/views/payment.php
+END
+user.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/879/trunk/eshop/views/user.php
+END
+oxcmp_shop.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/879/trunk/eshop/views/oxcmp_shop.php
+END
+oxcmp_basket.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/views/oxcmp_basket.php
+END
+account_wishlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/879/trunk/eshop/views/account_wishlist.php
+END
+guestbookentry.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/643/trunk/eshop/views/guestbookentry.php
+END
+oxcmp_user.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/879/trunk/eshop/views/oxcmp_user.php
+END
+register.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/879/trunk/eshop/views/register.php
+END
+compare.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/879/trunk/eshop/views/compare.php
+END

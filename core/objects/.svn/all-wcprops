@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/879/trunk/eshop/core/objects
+END
+oxerptype_scaleprice.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/879/trunk/eshop/core/objects/oxerptype_scaleprice.php
+END
+oxerptype_content.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/643/trunk/eshop/core/objects/oxerptype_content.php
+END
+oxerptype_order.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/879/trunk/eshop/core/objects/oxerptype_order.php
+END
+oxerptype_category.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/879/trunk/eshop/core/objects/oxerptype_category.php
+END
+oxerptype_user.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/879/trunk/eshop/core/objects/oxerptype_user.php
+END
+oxerptype_orderarticle.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/879/trunk/eshop/core/objects/oxerptype_orderarticle.php
+END
+oxerptype_accessoire.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/879/trunk/eshop/core/objects/oxerptype_accessoire.php
+END
+oxerptype.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/879/trunk/eshop/core/objects/oxerptype.php
+END
+oxerptype_artextends.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/879/trunk/eshop/core/objects/oxerptype_artextends.php
+END
+oxerptype_article.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/879/trunk/eshop/core/objects/oxerptype_article.php
+END
+oxerptype_article2attribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/643/trunk/eshop/core/objects/oxerptype_article2attribute.php
+END
+oxerptype_vendor.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/879/trunk/eshop/core/objects/oxerptype_vendor.php
+END
+oxerptype_country.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/879/trunk/eshop/core/objects/oxerptype_country.php
+END
+oxerptype_attribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/643/trunk/eshop/core/objects/oxerptype_attribute.php
+END
+oxerptype_article2category.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/879/trunk/eshop/core/objects/oxerptype_article2category.php
+END
+oxerptype_article2action.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/879/trunk/eshop/core/objects/oxerptype_article2action.php
+END
+oxerptype_crossselling.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/879/trunk/eshop/core/objects/oxerptype_crossselling.php
+END

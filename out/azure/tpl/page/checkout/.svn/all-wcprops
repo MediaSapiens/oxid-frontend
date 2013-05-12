@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/checkout
+END
+thankyou.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/checkout/thankyou.tpl
+END
+basket.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/561/trunk/eshop/out/azure/tpl/page/checkout/basket.tpl
+END
+order.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/checkout/order.tpl
+END
+payment.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/561/trunk/eshop/out/azure/tpl/page/checkout/payment.tpl
+END
+user.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/558/trunk/eshop/out/azure/tpl/page/checkout/user.tpl
+END

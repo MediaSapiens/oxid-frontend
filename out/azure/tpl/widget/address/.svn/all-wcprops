@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/address
+END
+billing_address.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/address/billing_address.tpl
+END
+shipping_address.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/address/shipping_address.tpl
+END

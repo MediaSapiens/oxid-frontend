@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/account
+END
+register.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/account/register.tpl
+END
+dashboard.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/account/dashboard.tpl
+END
+newsletter.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/556/trunk/eshop/out/azure/tpl/page/account/newsletter.tpl
+END
+recommendationlist.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/558/trunk/eshop/out/azure/tpl/page/account/recommendationlist.tpl
+END
+register_confirm.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/account/register_confirm.tpl
+END
+password.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/account/password.tpl
+END
+wishlist.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/556/trunk/eshop/out/azure/tpl/page/account/wishlist.tpl
+END
+login.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/account/login.tpl
+END
+recommendationedit.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/556/trunk/eshop/out/azure/tpl/page/account/recommendationedit.tpl
+END
+order.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/account/order.tpl
+END
+forgotpwd.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/556/trunk/eshop/out/azure/tpl/page/account/forgotpwd.tpl
+END
+register_success.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/account/register_success.tpl
+END
+recommendationadd.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/556/trunk/eshop/out/azure/tpl/page/account/recommendationadd.tpl
+END
+noticelist.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/556/trunk/eshop/out/azure/tpl/page/account/noticelist.tpl
+END
+user.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/account/user.tpl
+END

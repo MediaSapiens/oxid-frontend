@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/261/trunk/eshop/admin/reports/jpgraph/lang
+END
+en.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/261/trunk/eshop/admin/reports/jpgraph/lang/en.inc.php
+END
+prod.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/261/trunk/eshop/admin/reports/jpgraph/lang/prod.inc.php
+END
+de.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/261/trunk/eshop/admin/reports/jpgraph/lang/de.inc.php
+END

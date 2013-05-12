@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/879/trunk/eshop/out/basic/tpl/inc/facebook
+END
+fb_live_stream.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/879/trunk/eshop/out/basic/tpl/inc/facebook/fb_live_stream.tpl
+END
+fb_invite.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/879/trunk/eshop/out/basic/tpl/inc/facebook/fb_invite.tpl
+END
+fb_share.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/317/trunk/eshop/out/basic/tpl/inc/facebook/fb_share.tpl
+END
+fb_init.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/879/trunk/eshop/out/basic/tpl/inc/facebook/fb_init.tpl
+END
+fb_like.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/498/trunk/eshop/out/basic/tpl/inc/facebook/fb_like.tpl
+END
+fb_comments.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/879/trunk/eshop/out/basic/tpl/inc/facebook/fb_comments.tpl
+END
+fb_facepile.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/879/trunk/eshop/out/basic/tpl/inc/facebook/fb_facepile.tpl
+END

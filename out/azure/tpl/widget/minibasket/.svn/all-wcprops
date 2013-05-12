@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/minibasket
+END
+minibasketmodal.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/556/trunk/eshop/out/azure/tpl/widget/minibasket/minibasketmodal.tpl
+END
+minibasket.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/minibasket/minibasket.tpl
+END
+newbasketitemmsg.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/498/trunk/eshop/out/azure/tpl/widget/minibasket/newbasketitemmsg.tpl
+END
+countdown.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/498/trunk/eshop/out/azure/tpl/widget/minibasket/countdown.tpl
+END

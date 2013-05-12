@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/locator
+END
+listdisplaytype.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/523/trunk/eshop/out/azure/tpl/widget/locator/listdisplaytype.tpl
+END
+itemsperpage.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/523/trunk/eshop/out/azure/tpl/widget/locator/itemsperpage.tpl
+END
+paging.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/498/trunk/eshop/out/azure/tpl/widget/locator/paging.tpl
+END
+attributes.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/locator/attributes.tpl
+END
+sort.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/locator/sort.tpl
+END
+listlocator.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/498/trunk/eshop/out/azure/tpl/widget/locator/listlocator.tpl
+END

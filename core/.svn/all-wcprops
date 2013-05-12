@@ -1,0 +1,779 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/!svn/ver/879/trunk/eshop/core
+END
+oxnewssubscribed.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/879/trunk/eshop/core/oxnewssubscribed.php
+END
+oxdbmetadatahandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/879/trunk/eshop/core/oxdbmetadatahandler.php
+END
+oxdiscountlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/879/trunk/eshop/core/oxdiscountlist.php
+END
+oxdb.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/879/trunk/eshop/core/oxdb.php
+END
+oxdtausbuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/643/trunk/eshop/core/oxdtausbuilder.php
+END
+oxrssfeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/879/trunk/eshop/core/oxrssfeed.php
+END
+oxccvalidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/643/trunk/eshop/core/oxccvalidator.php
+END
+oxpaymentgateway.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/643/trunk/eshop/core/oxpaymentgateway.php
+END
+oxactions.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/879/trunk/eshop/core/oxactions.php
+END
+oxcaptcha.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/879/trunk/eshop/core/oxcaptcha.php
+END
+oxgbentry.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/879/trunk/eshop/core/oxgbentry.php
+END
+oxnews.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/879/trunk/eshop/core/oxnews.php
+END
+oxpayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/879/trunk/eshop/core/oxpayment.php
+END
+oxgroups.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/879/trunk/eshop/core/oxgroups.php
+END
+oxutilsurl.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/879/trunk/eshop/core/oxutilsurl.php
+END
+oxseoencoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/core/oxseoencoder.php
+END
+oxutilsserver.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/core/oxutilsserver.php
+END
+oxemail.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/879/trunk/eshop/core/oxemail.php
+END
+oxdiscount.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/879/trunk/eshop/core/oxdiscount.php
+END
+oxutilsview.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/879/trunk/eshop/core/oxutilsview.php
+END
+oxutilspic.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/879/trunk/eshop/core/oxutilspic.php
+END
+oxvendor.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/879/trunk/eshop/core/oxvendor.php
+END
+oxpricelist.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/643/trunk/eshop/core/oxpricelist.php
+END
+oxcountrylist.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/core/oxcountrylist.php
+END
+oxdeliveryset.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/core/oxdeliveryset.php
+END
+oxvarianthandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/879/trunk/eshop/core/oxvarianthandler.php
+END
+oxdebuginfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/643/trunk/eshop/core/oxdebuginfo.php
+END
+oxvoucherserie.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/879/trunk/eshop/core/oxvoucherserie.php
+END
+oxobject2group.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/879/trunk/eshop/core/oxobject2group.php
+END
+oxstatistic.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/643/trunk/eshop/core/oxstatistic.php
+END
+oxuserbasket.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/core/oxuserbasket.php
+END
+oxshop.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/879/trunk/eshop/core/oxshop.php
+END
+oxsimplevariantlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/643/trunk/eshop/core/oxsimplevariantlist.php
+END
+oxvoucher.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/879/trunk/eshop/core/oxvoucher.php
+END
+oxuserpayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/core/oxuserpayment.php
+END
+oxdisplayerror.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/643/trunk/eshop/core/oxdisplayerror.php
+END
+oxlinks.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/879/trunk/eshop/core/oxlinks.php
+END
+oxsession.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/879/trunk/eshop/core/oxsession.php
+END
+oxselection.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/643/trunk/eshop/core/oxselection.php
+END
+oxtsproduct.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/879/trunk/eshop/core/oxtsproduct.php
+END
+oxfb.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/879/trunk/eshop/core/oxfb.php
+END
+oxvatselector.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/core/oxvatselector.php
+END
+oxtsprotection.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/643/trunk/eshop/core/oxtsprotection.php
+END
+oxdynimggenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/879/trunk/eshop/core/oxdynimggenerator.php
+END
+oxconfk.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/643/trunk/eshop/core/oxconfk.php
+END
+oxprice.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/879/trunk/eshop/core/oxprice.php
+END
+oxsearch.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/879/trunk/eshop/core/oxsearch.php
+END
+oxinputvalidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/879/trunk/eshop/core/oxinputvalidator.php
+END
+oxpdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/879/trunk/eshop/core/oxpdf.php
+END
+oxorder.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/879/trunk/eshop/core/oxorder.php
+END
+oxlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/879/trunk/eshop/core/oxlist.php
+END
+oxcategory.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/879/trunk/eshop/core/oxcategory.php
+END
+oxsimplevariant.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/879/trunk/eshop/core/oxsimplevariant.php
+END
+oxrecommlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/core/oxrecommlist.php
+END
+oxi18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/879/trunk/eshop/core/oxi18n.php
+END
+oxerpbase.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/879/trunk/eshop/core/oxerpbase.php
+END
+oxefidownloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/643/trunk/eshop/core/oxefidownloader.php
+END
+oxdelivery.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/879/trunk/eshop/core/oxdelivery.php
+END
+oxuserbasketitem.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/879/trunk/eshop/core/oxuserbasketitem.php
+END
+oxoutput.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/879/trunk/eshop/core/oxoutput.php
+END
+oxutilsfile.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/879/trunk/eshop/core/oxutilsfile.php
+END
+oxattribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/879/trunk/eshop/core/oxattribute.php
+END
+oxseoencodermanufacturer.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/879/trunk/eshop/core/oxseoencodermanufacturer.php
+END
+oxpicturehandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/879/trunk/eshop/core/oxpicturehandler.php
+END
+oxpaymentlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/core/oxpaymentlist.php
+END
+oxorderarticle.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/879/trunk/eshop/core/oxorderarticle.php
+END
+oxsysrequirements.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/879/trunk/eshop/core/oxsysrequirements.php
+END
+oxfield.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/643/trunk/eshop/core/oxfield.php
+END
+oxseoencodercategory.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/879/trunk/eshop/core/oxseoencodercategory.php
+END
+oxrating.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/879/trunk/eshop/core/oxrating.php
+END
+oxutilsstring.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/643/trunk/eshop/core/oxutilsstring.php
+END
+oxutilsobject.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/core/oxutilsobject.php
+END
+oxvendorlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/core/oxvendorlist.php
+END
+oxdeliverysetlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/879/trunk/eshop/core/oxdeliverysetlist.php
+END
+oxerpcsv.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/879/trunk/eshop/core/oxerpcsv.php
+END
+oxseoencodervendor.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/879/trunk/eshop/core/oxseoencodervendor.php
+END
+oxshoplist.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/643/trunk/eshop/core/oxshoplist.php
+END
+oxcontentlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/643/trunk/eshop/core/oxcontentlist.php
+END
+oxvoucherlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/643/trunk/eshop/core/oxvoucherlist.php
+END
+oxutilscount.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/core/oxutilscount.php
+END
+oxselectlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/core/oxselectlist.php
+END
+oxpricealarm.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/core/oxpricealarm.php
+END
+oxstdclass.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/643/trunk/eshop/core/oxstdclass.php
+END
+oxlang.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/879/trunk/eshop/core/oxlang.php
+END
+oxarticle.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/879/trunk/eshop/core/oxarticle.php
+END
+oxaddress.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/879/trunk/eshop/core/oxaddress.php
+END
+oxmdvariant.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/690/trunk/eshop/core/oxmdvariant.php
+END
+oxstrmb.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/879/trunk/eshop/core/oxstrmb.php
+END
+oxwrapping.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/879/trunk/eshop/core/oxwrapping.php
+END
+oxbasketitem.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/core/oxbasketitem.php
+END
+oxmanufacturerlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/643/trunk/eshop/core/oxmanufacturerlist.php
+END
+oxdebugdb.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/879/trunk/eshop/core/oxdebugdb.php
+END
+oxutilsdate.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/643/trunk/eshop/core/oxutilsdate.php
+END
+oxreview.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/879/trunk/eshop/core/oxreview.php
+END
+oxstr.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/643/trunk/eshop/core/oxstr.php
+END
+oxcategorylist.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/879/trunk/eshop/core/oxcategorylist.php
+END
+oxcontent.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/879/trunk/eshop/core/oxcontent.php
+END
+oxseodecoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/core/oxseodecoder.php
+END
+oxdeliverylist.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/879/trunk/eshop/core/oxdeliverylist.php
+END
+oxstate.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/879/trunk/eshop/core/oxstate.php
+END
+oxseoencodertag.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/879/trunk/eshop/core/oxseoencodertag.php
+END
+oxstrregular.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/core/oxstrregular.php
+END
+oxmanufacturer.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/879/trunk/eshop/core/oxmanufacturer.php
+END
+oxnewsletter.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/core/oxnewsletter.php
+END
+oxattributelist.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/879/trunk/eshop/core/oxattributelist.php
+END
+oxutils.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/879/trunk/eshop/core/oxutils.php
+END
+oxtheme.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/657/trunk/eshop/core/oxtheme.php
+END
+oxtagcloud.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/879/trunk/eshop/core/oxtagcloud.php
+END
+oxmediaurl.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/879/trunk/eshop/core/oxmediaurl.php
+END
+oxcountry.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/879/trunk/eshop/core/oxcountry.php
+END
+oxfunctions.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/879/trunk/eshop/core/oxfunctions.php
+END
+oxactionlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/core/oxactionlist.php
+END
+oxuserlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/879/trunk/eshop/core/oxuserlist.php
+END
+oxorderarticlelist.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/643/trunk/eshop/core/oxorderarticlelist.php
+END
+oxremark.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/643/trunk/eshop/core/oxremark.php
+END
+oxseoencoderrecomm.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/879/trunk/eshop/core/oxseoencoderrecomm.php
+END
+oxseoencoderarticle.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/879/trunk/eshop/core/oxseoencoderarticle.php
+END
+oxbasketreservation.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/879/trunk/eshop/core/oxbasketreservation.php
+END
+oxvariantselectlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/643/trunk/eshop/core/oxvariantselectlist.php
+END
+oximex.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/879/trunk/eshop/core/oximex.php
+END
+oxconfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/879/trunk/eshop/core/oxconfig.php
+END
+oxnewslist.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/879/trunk/eshop/core/oxnewslist.php
+END
+oxbasket.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/879/trunk/eshop/core/oxbasket.php
+END
+oxbase.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/879/trunk/eshop/core/oxbase.php
+END
+oxerpgenimport.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/879/trunk/eshop/core/oxerpgenimport.php
+END
+oxsupercfg.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/879/trunk/eshop/core/oxsupercfg.php
+END
+oxuser.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/879/trunk/eshop/core/oxuser.php
+END
+oxarticlelist.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/core/oxarticlelist.php
+END
+oxseoencodercontent.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/879/trunk/eshop/core/oxseoencodercontent.php
+END

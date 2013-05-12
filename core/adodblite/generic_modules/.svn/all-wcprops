@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/633/trunk/eshop/core/adodblite/generic_modules
+END
+menu_module.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/261/trunk/eshop/core/adodblite/generic_modules/menu_module.inc
+END
+object_module.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/261/trunk/eshop/core/adodblite/generic_modules/object_module.inc
+END
+adodblite_module.inc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/261/trunk/eshop/core/adodblite/generic_modules/adodblite_module.inc
+END
+pear_module.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/261/trunk/eshop/core/adodblite/generic_modules/pear_module.inc
+END
+oxadminlog_module.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/633/trunk/eshop/core/adodblite/generic_modules/oxadminlog_module.inc
+END

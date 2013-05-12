@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/out/azure/tpl/message
+END
+notice.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/498/trunk/eshop/out/azure/tpl/message/notice.tpl
+END
+err_unknown.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/498/trunk/eshop/out/azure/tpl/message/err_unknown.tpl
+END
+err_setup.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/538/trunk/eshop/out/azure/tpl/message/err_setup.tpl
+END
+success.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/498/trunk/eshop/out/azure/tpl/message/success.tpl
+END
+error.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/498/trunk/eshop/out/azure/tpl/message/error.tpl
+END
+inputvalidation.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/552/trunk/eshop/out/azure/tpl/message/inputvalidation.tpl
+END
+errors.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/498/trunk/eshop/out/azure/tpl/message/errors.tpl
+END
+exception.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/879/trunk/eshop/out/azure/tpl/message/exception.tpl
+END
+err_404.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/498/trunk/eshop/out/azure/tpl/message/err_404.tpl
+END

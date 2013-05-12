@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/879/trunk/eshop/out/azure/tpl/form/fieldset
+END
+salutation.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/498/trunk/eshop/out/azure/tpl/form/fieldset/salutation.tpl
+END
+user_email.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/556/trunk/eshop/out/azure/tpl/form/fieldset/user_email.tpl
+END
+order_newsletter.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/565/trunk/eshop/out/azure/tpl/form/fieldset/order_newsletter.tpl
+END
+user_noaccount.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/558/trunk/eshop/out/azure/tpl/form/fieldset/user_noaccount.tpl
+END
+user_account.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/558/trunk/eshop/out/azure/tpl/form/fieldset/user_account.tpl
+END
+order_remark.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/879/trunk/eshop/out/azure/tpl/form/fieldset/order_remark.tpl
+END
+user_billing.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/879/trunk/eshop/out/azure/tpl/form/fieldset/user_billing.tpl
+END
+user_shipping.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/879/trunk/eshop/out/azure/tpl/form/fieldset/user_shipping.tpl
+END
+state.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/556/trunk/eshop/out/azure/tpl/form/fieldset/state.tpl
+END

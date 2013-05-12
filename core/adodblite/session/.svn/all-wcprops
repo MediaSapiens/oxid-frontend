@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/740/trunk/eshop/core/adodblite/session
+END
+adodb-compress-gzip.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/261/trunk/eshop/core/adodblite/session/adodb-compress-gzip.php
+END
+adodb-sessions.mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/261/trunk/eshop/core/adodblite/session/adodb-sessions.mysql.sql
+END
+adodb-session.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/740/trunk/eshop/core/adodblite/session/adodb-session.php
+END
+adodb-cryptsession.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/261/trunk/eshop/core/adodblite/session/adodb-cryptsession.php
+END
+session_schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/261/trunk/eshop/core/adodblite/session/session_schema.xml
+END
+adodb-encrypt-md5.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/261/trunk/eshop/core/adodblite/session/adodb-encrypt-md5.php
+END
+adodb-encrypt-secret.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/261/trunk/eshop/core/adodblite/session/adodb-encrypt-secret.php
+END
+adodb-encrypt-ordcrypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/261/trunk/eshop/core/adodblite/session/adodb-encrypt-ordcrypt.php
+END
+adodb-encrypt-sha1.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/261/trunk/eshop/core/adodblite/session/adodb-encrypt-sha1.php
+END
+adodb-compress-bzip2.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/261/trunk/eshop/core/adodblite/session/adodb-compress-bzip2.php
+END
+adodb-encrypt-mcrypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/261/trunk/eshop/core/adodblite/session/adodb-encrypt-mcrypt.php
+END

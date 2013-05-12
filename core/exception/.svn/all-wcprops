@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/879/trunk/eshop/core/exception
+END
+oxarticleinputexception.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/643/trunk/eshop/core/exception/oxarticleinputexception.php
+END
+oxobjectexception.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/643/trunk/eshop/core/exception/oxobjectexception.php
+END
+oxsystemcomponentexception.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/643/trunk/eshop/core/exception/oxsystemcomponentexception.php
+END
+oxexceptiontodisplay.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/643/trunk/eshop/core/exception/oxexceptiontodisplay.php
+END
+oxshopexception.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/643/trunk/eshop/core/exception/oxshopexception.php
+END
+oxcookieexception.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/643/trunk/eshop/core/exception/oxcookieexception.php
+END
+oxvoucherexception.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/643/trunk/eshop/core/exception/oxvoucherexception.php
+END
+oxexceptionhandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/879/trunk/eshop/core/exception/oxexceptionhandler.php
+END
+oxuserexception.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/643/trunk/eshop/core/exception/oxuserexception.php
+END
+oxfileexception.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/643/trunk/eshop/core/exception/oxfileexception.php
+END
+oxexception.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/643/trunk/eshop/core/exception/oxexception.php
+END
+oxnoarticleexception.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/643/trunk/eshop/core/exception/oxnoarticleexception.php
+END
+oxlanguageexception.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/643/trunk/eshop/core/exception/oxlanguageexception.php
+END
+oxarticleexception.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/643/trunk/eshop/core/exception/oxarticleexception.php
+END
+oxinputexception.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/643/trunk/eshop/core/exception/oxinputexception.php
+END
+oxconnectionexception.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/643/trunk/eshop/core/exception/oxconnectionexception.php
+END
+oxoutofstockexception.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/879/trunk/eshop/core/exception/oxoutofstockexception.php
+END

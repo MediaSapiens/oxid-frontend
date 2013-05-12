@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/details/inc
+END
+morepics.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/558/trunk/eshop/out/azure/tpl/page/details/inc/morepics.tpl
+END
+deliverytime.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/498/trunk/eshop/out/azure/tpl/page/details/inc/deliverytime.tpl
+END
+related_products.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/558/trunk/eshop/out/azure/tpl/page/details/inc/related_products.tpl
+END
+editTags.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/details/inc/editTags.tpl
+END
+productmain.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/details/inc/productmain.tpl
+END
+attributes.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/558/trunk/eshop/out/azure/tpl/page/details/inc/attributes.tpl
+END
+compare_links.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/498/trunk/eshop/out/azure/tpl/page/details/inc/compare_links.tpl
+END
+zoompopup.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/details/inc/zoompopup.tpl
+END
+tabs.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/details/inc/tabs.tpl
+END
+priceinfo.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/details/inc/priceinfo.tpl
+END
+tags.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/558/trunk/eshop/out/azure/tpl/page/details/inc/tags.tpl
+END
+fullproductinfo.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/details/inc/fullproductinfo.tpl
+END
+media.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/540/trunk/eshop/out/azure/tpl/page/details/inc/media.tpl
+END

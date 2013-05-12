@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/879/trunk/eshop/core/adodblite
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/261/trunk/eshop/core/adodblite/license.txt
+END
+adodb-perf.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/879/trunk/eshop/core/adodblite/adodb-perf.inc.php
+END
+adodb-datadict.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/261/trunk/eshop/core/adodblite/adodb-datadict.inc.php
+END
+adodb-time.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/261/trunk/eshop/core/adodblite/adodb-time.inc.php
+END
+adodb.config.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/261/trunk/eshop/core/adodblite/adodb.config.php
+END
+adodb-perf-module.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/261/trunk/eshop/core/adodblite/adodb-perf-module.inc.php
+END
+tohtml.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/261/trunk/eshop/core/adodblite/tohtml.inc.php
+END
+adodb-exceptions.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/261/trunk/eshop/core/adodblite/adodb-exceptions.inc.php
+END
+adodb-xmlschema.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/261/trunk/eshop/core/adodblite/adodb-xmlschema.inc.php
+END
+adodb-errorpear.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/261/trunk/eshop/core/adodblite/adodb-errorpear.inc.php
+END
+adodb.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/261/trunk/eshop/core/adodblite/adodb.inc.php
+END
+xmlschema.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/261/trunk/eshop/core/adodblite/xmlschema.dtd
+END
+adodb-errorhandler.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/261/trunk/eshop/core/adodblite/adodb-errorhandler.inc.php
+END
+adodb-error.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/261/trunk/eshop/core/adodblite/adodb-error.inc.php
+END

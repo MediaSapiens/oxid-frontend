@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/879/trunk/eshop/out/basic/tpl/dyn
+END
+newbasketitem_popup.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/261/trunk/eshop/out/basic/tpl/dyn/newbasketitem_popup.tpl
+END
+mini_basket.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/560/trunk/eshop/out/basic/tpl/dyn/mini_basket.tpl
+END
+compare_links.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/261/trunk/eshop/out/basic/tpl/dyn/compare_links.tpl
+END
+add_recomm.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/261/trunk/eshop/out/basic/tpl/dyn/add_recomm.tpl
+END
+top_basket.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/560/trunk/eshop/out/basic/tpl/dyn/top_basket.tpl
+END
+cmp_fbconnect_right.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/315/trunk/eshop/out/basic/tpl/dyn/cmp_fbconnect_right.tpl
+END
+popup_scbasketexcl.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/498/trunk/eshop/out/basic/tpl/dyn/popup_scbasketexcl.tpl
+END
+last_seen_products.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/498/trunk/eshop/out/basic/tpl/dyn/last_seen_products.tpl
+END
+cmp_login_right.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/657/trunk/eshop/out/basic/tpl/dyn/cmp_login_right.tpl
+END
+newbasketitem_message.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/261/trunk/eshop/out/basic/tpl/dyn/newbasketitem_message.tpl
+END
+formparams.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/261/trunk/eshop/out/basic/tpl/dyn/formparams.tpl
+END
+cmp_login_links.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/498/trunk/eshop/out/basic/tpl/dyn/cmp_login_links.tpl
+END
+promotions.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/879/trunk/eshop/out/basic/tpl/dyn/promotions.tpl
+END
+oxscript.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/261/trunk/eshop/out/basic/tpl/dyn/oxscript.tpl
+END
+top_account.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/879/trunk/eshop/out/basic/tpl/dyn/top_account.tpl
+END

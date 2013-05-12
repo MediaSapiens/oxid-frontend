@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/footer
+END
+categorieslist.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/500/trunk/eshop/out/azure/tpl/widget/footer/categorieslist.tpl
+END
+services.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/footer/services.tpl
+END
+info.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/498/trunk/eshop/out/azure/tpl/widget/footer/info.tpl
+END
+newsletter.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/504/trunk/eshop/out/azure/tpl/widget/footer/newsletter.tpl
+END
+manufacturers.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/540/trunk/eshop/out/azure/tpl/widget/footer/manufacturers.tpl
+END
+vendors.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/538/trunk/eshop/out/azure/tpl/widget/footer/vendors.tpl
+END

@@ -1,0 +1,1103 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/!svn/ver/879/trunk/eshop/admin
+END
+article_extend.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/879/trunk/eshop/admin/article_extend.php
+END
+manufacturer.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/643/trunk/eshop/admin/manufacturer.php
+END
+attribute_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/643/trunk/eshop/admin/attribute_list.php
+END
+shop_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/admin/shop_config.php
+END
+attribute_category.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/879/trunk/eshop/admin/attribute_category.php
+END
+dyn_econda.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/643/trunk/eshop/admin/dyn_econda.php
+END
+deliveryset_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/879/trunk/eshop/admin/deliveryset_main.php
+END
+genimport.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/643/trunk/eshop/admin/genimport.php
+END
+actions_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/admin/actions_main.php
+END
+newsletter_send.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/879/trunk/eshop/admin/newsletter_send.php
+END
+statistic.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/643/trunk/eshop/admin/statistic.php
+END
+efire_downloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/643/trunk/eshop/admin/efire_downloader.php
+END
+category_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/643/trunk/eshop/admin/category_list.php
+END
+category.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/643/trunk/eshop/admin/category.php
+END
+shop_seo.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/879/trunk/eshop/admin/shop_seo.php
+END
+user_remark.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/admin/user_remark.php
+END
+sysreq_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/643/trunk/eshop/admin/sysreq_list.php
+END
+delivery.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/643/trunk/eshop/admin/delivery.php
+END
+admin_user.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/643/trunk/eshop/admin/admin_user.php
+END
+newsletter_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/643/trunk/eshop/admin/newsletter_list.php
+END
+oxajax.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/879/trunk/eshop/admin/oxajax.php
+END
+oxadminlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/admin/oxadminlist.php
+END
+tools_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/879/trunk/eshop/admin/tools_list.php
+END
+wrapping_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/879/trunk/eshop/admin/wrapping_main.php
+END
+adminlinks_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/879/trunk/eshop/admin/adminlinks_main.php
+END
+country_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/643/trunk/eshop/admin/country_list.php
+END
+voucherserie_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/643/trunk/eshop/admin/voucherserie_list.php
+END
+navigation.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/879/trunk/eshop/admin/navigation.php
+END
+usergroup_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/879/trunk/eshop/admin/usergroup_main.php
+END
+newsletter_selection.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/879/trunk/eshop/admin/newsletter_selection.php
+END
+article_pictures.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/879/trunk/eshop/admin/article_pictures.php
+END
+vendor_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/admin/vendor_main.php
+END
+manufacturer_seo.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/879/trunk/eshop/admin/manufacturer_seo.php
+END
+theme.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/643/trunk/eshop/admin/theme.php
+END
+payment_overview.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/879/trunk/eshop/admin/payment_overview.php
+END
+adminguestbook_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/879/trunk/eshop/admin/adminguestbook_list.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/879/trunk/eshop/admin/index.php
+END
+article_variant.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/879/trunk/eshop/admin/article_variant.php
+END
+discount_users.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/879/trunk/eshop/admin/discount_users.php
+END
+article_crossselling.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/879/trunk/eshop/admin/article_crossselling.php
+END
+user_payment.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/admin/user_payment.php
+END
+voucherserie_generate.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/643/trunk/eshop/admin/voucherserie_generate.php
+END
+order_article.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/879/trunk/eshop/admin/order_article.php
+END
+language_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/879/trunk/eshop/admin/language_list.php
+END
+order_address.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/879/trunk/eshop/admin/order_address.php
+END
+news_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/879/trunk/eshop/admin/news_main.php
+END
+payment_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/admin/payment_main.php
+END
+category_text.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/879/trunk/eshop/admin/category_text.php
+END
+admin_content.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/643/trunk/eshop/admin/admin_content.php
+END
+article.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/643/trunk/eshop/admin/article.php
+END
+admin_news.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/643/trunk/eshop/admin/admin_news.php
+END
+dyn_superclix.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/643/trunk/eshop/admin/dyn_superclix.php
+END
+category_pictures.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/643/trunk/eshop/admin/category_pictures.php
+END
+deliveryset_payment.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/879/trunk/eshop/admin/deliveryset_payment.php
+END
+discount_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/879/trunk/eshop/admin/discount_main.php
+END
+theme_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/643/trunk/eshop/admin/theme_list.php
+END
+object_rights.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/261/trunk/eshop/admin/object_rights.xml
+END
+admin_wrapping.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/643/trunk/eshop/admin/admin_wrapping.php
+END
+deliveryset.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/643/trunk/eshop/admin/deliveryset.php
+END
+tools.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/643/trunk/eshop/admin/tools.php
+END
+statistic_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/643/trunk/eshop/admin/statistic_list.php
+END
+attribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/643/trunk/eshop/admin/attribute.php
+END
+vendor_seo.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/879/trunk/eshop/admin/vendor_seo.php
+END
+article_review.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/879/trunk/eshop/admin/article_review.php
+END
+admin_start.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/643/trunk/eshop/admin/admin_start.php
+END
+selectlist_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/643/trunk/eshop/admin/selectlist_list.php
+END
+admin_guestbook.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/643/trunk/eshop/admin/admin_guestbook.php
+END
+pricealarm_mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/643/trunk/eshop/admin/pricealarm_mail.php
+END
+user_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/879/trunk/eshop/admin/user_main.php
+END
+pricealarm_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/879/trunk/eshop/admin/pricealarm_main.php
+END
+manufacturer_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/643/trunk/eshop/admin/manufacturer_list.php
+END
+delivery_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/879/trunk/eshop/admin/delivery_main.php
+END
+dynscreen.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/643/trunk/eshop/admin/dynscreen.php
+END
+payment_country.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/879/trunk/eshop/admin/payment_country.php
+END
+country.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/643/trunk/eshop/admin/country.php
+END
+voucherserie.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/643/trunk/eshop/admin/voucherserie.php
+END
+oxadmindetails.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/643/trunk/eshop/admin/oxadmindetails.php
+END
+content_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/643/trunk/eshop/admin/content_list.php
+END
+order_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/643/trunk/eshop/admin/order_list.php
+END
+article_overview.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/879/trunk/eshop/admin/article_overview.php
+END
+delivery_articles.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/879/trunk/eshop/admin/delivery_articles.php
+END
+shop.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/643/trunk/eshop/admin/shop.php
+END
+dyn_adbutler.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/643/trunk/eshop/admin/dyn_adbutler.php
+END
+menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/879/trunk/eshop/admin/menu.xml
+END
+shop_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/879/trunk/eshop/admin/shop_main.php
+END
+content_seo.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/admin/content_seo.php
+END
+language.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/643/trunk/eshop/admin/language.php
+END
+dynscreen_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/643/trunk/eshop/admin/dynscreen_list.php
+END
+sysreq.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/643/trunk/eshop/admin/sysreq.php
+END
+article_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/admin/article_main.php
+END
+admin_pricealarm.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/643/trunk/eshop/admin/admin_pricealarm.php
+END
+admin_links.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/643/trunk/eshop/admin/admin_links.php
+END
+efire.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/643/trunk/eshop/admin/efire.php
+END
+deliveryset_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/643/trunk/eshop/admin/deliveryset_list.php
+END
+dyn_trusted_ratings.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/643/trunk/eshop/admin/dyn_trusted_ratings.php
+END
+actions_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/643/trunk/eshop/admin/actions_list.php
+END
+genexport_do.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/admin/genexport_do.php
+END
+dyn_affiliwelt.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/643/trunk/eshop/admin/dyn_affiliwelt.php
+END
+article_attribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/879/trunk/eshop/admin/article_attribute.php
+END
+attribute_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/879/trunk/eshop/admin/attribute_main.php
+END
+dyn_interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/643/trunk/eshop/admin/dyn_interface.php
+END
+genexport.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/643/trunk/eshop/admin/genexport.php
+END
+selectlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/643/trunk/eshop/admin/selectlist.php
+END
+object_seo.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/879/trunk/eshop/admin/object_seo.php
+END
+dynscreen_local.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/261/trunk/eshop/admin/dynscreen_local.xml
+END
+shop_system.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/admin/shop_system.php
+END
+category_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/879/trunk/eshop/admin/category_main.php
+END
+wrapping_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/643/trunk/eshop/admin/wrapping_list.php
+END
+admin_order.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/643/trunk/eshop/admin/admin_order.php
+END
+adminlinks_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/643/trunk/eshop/admin/adminlinks_list.php
+END
+efire_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/643/trunk/eshop/admin/efire_list.php
+END
+admin_payment.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/643/trunk/eshop/admin/admin_payment.php
+END
+user_extend.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/admin/user_extend.php
+END
+usergroup_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/643/trunk/eshop/admin/usergroup_list.php
+END
+dynexportbase.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/879/trunk/eshop/admin/dynexportbase.php
+END
+theme_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/admin/theme_config.php
+END
+vendor_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/643/trunk/eshop/admin/vendor_list.php
+END
+oxadminview.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/admin/oxadminview.php
+END
+shop_performance.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/643/trunk/eshop/admin/shop_performance.php
+END
+sysreq_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/643/trunk/eshop/admin/sysreq_main.php
+END
+list_review.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/admin/list_review.php
+END
+newsletter_preview.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/643/trunk/eshop/admin/newsletter_preview.php
+END
+vendor.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/643/trunk/eshop/admin/vendor.php
+END
+actions.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/643/trunk/eshop/admin/actions.php
+END
+newsletter_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/643/trunk/eshop/admin/newsletter_main.php
+END
+dyn_ipayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/643/trunk/eshop/admin/dyn_ipayment.php
+END
+article_userdef.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/643/trunk/eshop/admin/article_userdef.php
+END
+dyn_trusted.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/643/trunk/eshop/admin/dyn_trusted.php
+END
+admin_newsletter.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/643/trunk/eshop/admin/admin_newsletter.php
+END
+delivery_users.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/879/trunk/eshop/admin/delivery_users.php
+END
+tools_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/643/trunk/eshop/admin/tools_main.php
+END
+news_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/643/trunk/eshop/admin/news_list.php
+END
+country_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/admin/country_main.php
+END
+voucherserie_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/879/trunk/eshop/admin/voucherserie_main.php
+END
+payment_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/643/trunk/eshop/admin/payment_list.php
+END
+dyn_affilinet.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/643/trunk/eshop/admin/dyn_affilinet.php
+END
+shop_license.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/admin/shop_license.php
+END
+newsletter_plain.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/643/trunk/eshop/admin/newsletter_plain.php
+END
+adminguestbook_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/879/trunk/eshop/admin/adminguestbook_main.php
+END
+user_article.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/643/trunk/eshop/admin/user_article.php
+END
+category_seo.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/admin/category_seo.php
+END
+discount_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/643/trunk/eshop/admin/discount_list.php
+END
+user_address.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/admin/user_address.php
+END
+article_stock.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/879/trunk/eshop/admin/article_stock.php
+END
+language_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/879/trunk/eshop/admin/language_main.php
+END
+statistic_service.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/879/trunk/eshop/admin/statistic_service.php
+END
+pricealarm_send.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/879/trunk/eshop/admin/pricealarm_send.php
+END
+systeminfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/643/trunk/eshop/admin/systeminfo.php
+END
+shop_countries.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/879/trunk/eshop/admin/shop_countries.php
+END
+user_overview.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/643/trunk/eshop/admin/user_overview.php
+END
+voucherserie_export.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/879/trunk/eshop/admin/voucherserie_export.php
+END
+list_order.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/879/trunk/eshop/admin/list_order.php
+END
+theme_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/879/trunk/eshop/admin/theme_main.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/643/trunk/eshop/admin/login.php
+END
+category_order.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/879/trunk/eshop/admin/category_order.php
+END
+user_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/879/trunk/eshop/admin/user_list.php
+END
+dyn_affili24.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/643/trunk/eshop/admin/dyn_affili24.php
+END
+pricealarm_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/643/trunk/eshop/admin/pricealarm_list.php
+END
+statistic_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/879/trunk/eshop/admin/statistic_main.php
+END
+delivery_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/643/trunk/eshop/admin/delivery_list.php
+END
+discount_articles.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/879/trunk/eshop/admin/discount_articles.php
+END
+genexport_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/643/trunk/eshop/admin/genexport_main.php
+END
+category_update.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/643/trunk/eshop/admin/category_update.php
+END
+selectlist_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/879/trunk/eshop/admin/selectlist_main.php
+END
+news_text.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/879/trunk/eshop/admin/news_text.php
+END
+deliveryset_users.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/879/trunk/eshop/admin/deliveryset_users.php
+END
+order_package.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/643/trunk/eshop/admin/order_package.php
+END
+user.xml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/261/trunk/eshop/admin/user.xml
+END
+discount.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/643/trunk/eshop/admin/discount.php
+END
+article_seo.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/admin/article_seo.php
+END
+usergroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/643/trunk/eshop/admin/usergroup.php
+END
+manufacturer_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/879/trunk/eshop/admin/manufacturer_main.php
+END
+order_overview.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/879/trunk/eshop/admin/order_overview.php
+END
+voucherserie_groups.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/879/trunk/eshop/admin/voucherserie_groups.php
+END
+dynscreen_local.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/643/trunk/eshop/admin/dynscreen_local.php
+END
+shop_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/879/trunk/eshop/admin/shop_list.php
+END
+genimport_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/879/trunk/eshop/admin/genimport_main.php
+END
+list_user.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/643/trunk/eshop/admin/list_user.php
+END
+order_remark.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/admin/order_remark.php
+END
+article_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/admin/article_list.php
+END
+content_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/879/trunk/eshop/admin/content_main.php
+END
+order_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/879/trunk/eshop/admin/order_main.php
+END
+oxnavigationtree.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/879/trunk/eshop/admin/oxnavigationtree.php
+END

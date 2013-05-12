@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/879/trunk/eshop/out/basic/tpl
+END
+security_info.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/261/trunk/eshop/out/basic/tpl/security_info.tpl
+END
+impressum.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/261/trunk/eshop/out/basic/tpl/impressum.tpl
+END
+_header.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/879/trunk/eshop/out/basic/tpl/_header.tpl
+END
+help.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/305/trunk/eshop/out/basic/tpl/help.tpl
+END
+_left.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/500/trunk/eshop/out/basic/tpl/_left.tpl
+END
+review_login.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/879/trunk/eshop/out/basic/tpl/review_login.tpl
+END
+_path.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/317/trunk/eshop/out/basic/tpl/_path.tpl
+END
+_footer.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/879/trunk/eshop/out/basic/tpl/_footer.tpl
+END
+review.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/879/trunk/eshop/out/basic/tpl/review.tpl
+END
+user_blocked.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/879/trunk/eshop/out/basic/tpl/user_blocked.tpl
+END
+moredetails.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/261/trunk/eshop/out/basic/tpl/moredetails.tpl
+END
+compare_popup.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/498/trunk/eshop/out/basic/tpl/compare_popup.tpl
+END
+_header_plain.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/498/trunk/eshop/out/basic/tpl/_header_plain.tpl
+END
+_right.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/879/trunk/eshop/out/basic/tpl/_right.tpl
+END
+pricealarm.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/261/trunk/eshop/out/basic/tpl/pricealarm.tpl
+END
+_footer_plain.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/303/trunk/eshop/out/basic/tpl/_footer_plain.tpl
+END

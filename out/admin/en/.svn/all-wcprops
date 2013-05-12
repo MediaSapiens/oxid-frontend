@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/879/trunk/eshop/out/admin/en
+END
+help_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/879/trunk/eshop/out/admin/en/help_lang.php
+END
+cust_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/643/trunk/eshop/out/admin/en/cust_lang.php
+END
+lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/879/trunk/eshop/out/admin/en/lang.php
+END

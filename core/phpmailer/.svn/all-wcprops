@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/261/trunk/eshop/core/phpmailer
+END
+codeworxtech.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/261/trunk/eshop/core/phpmailer/codeworxtech.html
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/261/trunk/eshop/core/phpmailer/LICENSE
+END
+ChangeLog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/261/trunk/eshop/core/phpmailer/ChangeLog.txt
+END
+class.phpmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/261/trunk/eshop/core/phpmailer/class.phpmailer.php
+END
+class.pop3.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/261/trunk/eshop/core/phpmailer/class.pop3.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/261/trunk/eshop/core/phpmailer/README
+END
+class.smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/261/trunk/eshop/core/phpmailer/class.smtp.php
+END

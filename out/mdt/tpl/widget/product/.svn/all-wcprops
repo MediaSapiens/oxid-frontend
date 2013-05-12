@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/product
+END
+listitem_line.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/product/listitem_line.tpl
+END
+bargainitems.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/product/bargainitems.tpl
+END
+compare_links.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/558/trunk/eshop/out/azure/tpl/widget/product/compare_links.tpl
+END
+selectbox.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/product/selectbox.tpl
+END
+list.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/product/list.tpl
+END
+listitem_infogrid.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/product/listitem_infogrid.tpl
+END
+boxproducts.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/558/trunk/eshop/out/azure/tpl/widget/product/boxproducts.tpl
+END
+listitem_grid.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/879/trunk/eshop/out/azure/tpl/widget/product/listitem_grid.tpl
+END

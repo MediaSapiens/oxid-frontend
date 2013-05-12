@@ -1,0 +1,497 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/879/trunk/eshop/core/smarty/plugins
+END
+function.oxstyle.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/879/trunk/eshop/core/smarty/plugins/function.oxstyle.php
+END
+modifier.spacify.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/modifier.spacify.php
+END
+modifier.oxlower.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/643/trunk/eshop/core/smarty/plugins/modifier.oxlower.php
+END
+modifier.escape.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/modifier.escape.php
+END
+modifier.count_paragraphs.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/modifier.count_paragraphs.php
+END
+modifier.oxmultilangsal.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/643/trunk/eshop/core/smarty/plugins/modifier.oxmultilangsal.php
+END
+function.oxinputhelp.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/643/trunk/eshop/core/smarty/plugins/function.oxinputhelp.php
+END
+modifier.debug_print_var.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/modifier.debug_print_var.php
+END
+function.eval.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/function.eval.php
+END
+oxemosadapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/879/trunk/eshop/core/smarty/plugins/oxemosadapter.php
+END
+modifier.nl2br.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/modifier.nl2br.php
+END
+modifier.oxaddslashes.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/643/trunk/eshop/core/smarty/plugins/modifier.oxaddslashes.php
+END
+function.cycle.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/function.cycle.php
+END
+modifier.count_characters.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/modifier.count_characters.php
+END
+modifier.lower.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/modifier.lower.php
+END
+insert.oxid_nocache.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/643/trunk/eshop/core/smarty/plugins/insert.oxid_nocache.php
+END
+insert.oxid_newbasketitem.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/643/trunk/eshop/core/smarty/plugins/insert.oxid_newbasketitem.php
+END
+block.oxifcontent.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/879/trunk/eshop/core/smarty/plugins/block.oxifcontent.php
+END
+function.html_radios.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/function.html_radios.php
+END
+prefilter.oxblock.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/643/trunk/eshop/core/smarty/plugins/prefilter.oxblock.php
+END
+function.html_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/function.html_table.php
+END
+modifier.oxupper.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/643/trunk/eshop/core/smarty/plugins/modifier.oxupper.php
+END
+modifier.oxaddparams.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/879/trunk/eshop/core/smarty/plugins/modifier.oxaddparams.php
+END
+modifier.wordwrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/modifier.wordwrap.php
+END
+modifier.oxmultilangassign.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/643/trunk/eshop/core/smarty/plugins/modifier.oxmultilangassign.php
+END
+modifier.oxformdate.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/643/trunk/eshop/core/smarty/plugins/modifier.oxformdate.php
+END
+function.html_select_time.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/function.html_select_time.php
+END
+shared.make_timestamp.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/shared.make_timestamp.php
+END
+modifier.oxwordwrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/643/trunk/eshop/core/smarty/plugins/modifier.oxwordwrap.php
+END
+function.fetch.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/function.fetch.php
+END
+function.math.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/function.math.php
+END
+modifier.indent.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/modifier.indent.php
+END
+modifier.truncate.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/modifier.truncate.php
+END
+shared.escape_special_chars.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/shared.escape_special_chars.php
+END
+function.oxmultilang.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/643/trunk/eshop/core/smarty/plugins/function.oxmultilang.php
+END
+function.config_load.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/function.config_load.php
+END
+modifier.upper.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/modifier.upper.php
+END
+modifier.oxtruncate.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/643/trunk/eshop/core/smarty/plugins/modifier.oxtruncate.php
+END
+function.html_image.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/function.html_image.php
+END
+modifier.count_sentences.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/modifier.count_sentences.php
+END
+block.oxhasrights.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/879/trunk/eshop/core/smarty/plugins/block.oxhasrights.php
+END
+compiler.assign.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/compiler.assign.php
+END
+insert.oxid_cmplogin.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/643/trunk/eshop/core/smarty/plugins/insert.oxid_cmplogin.php
+END
+function.oxid_include_dynamic.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/643/trunk/eshop/core/smarty/plugins/function.oxid_include_dynamic.php
+END
+modifier.strip.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/modifier.strip.php
+END
+function.oxvariantselect.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/643/trunk/eshop/core/smarty/plugins/function.oxvariantselect.php
+END
+function.assign_adv.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/function.assign_adv.php
+END
+modifier.count_words.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/modifier.count_words.php
+END
+modifier.oxescape.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/643/trunk/eshop/core/smarty/plugins/modifier.oxescape.php
+END
+modifier.cat.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/modifier.cat.php
+END
+function.oxgetseourl.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/643/trunk/eshop/core/smarty/plugins/function.oxgetseourl.php
+END
+modifier.oxnumberformat.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/643/trunk/eshop/core/smarty/plugins/modifier.oxnumberformat.php
+END
+modifier.replace.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/modifier.replace.php
+END
+insert.oxid_cssmanager.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/643/trunk/eshop/core/smarty/plugins/insert.oxid_cssmanager.php
+END
+modifier.smartwordwrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/modifier.smartwordwrap.php
+END
+compiler.defun.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/compiler.defun.php
+END
+modifier.oxformattime.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/643/trunk/eshop/core/smarty/plugins/modifier.oxformattime.php
+END
+modifier.string_format.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/modifier.string_format.php
+END
+modifier.strip_tags.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/modifier.strip_tags.php
+END
+modifier.default.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/modifier.default.php
+END
+modifier.date_format.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/modifier.date_format.php
+END
+modifier.capitalize.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/modifier.capitalize.php
+END
+function.oxeval.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/667/trunk/eshop/core/smarty/plugins/function.oxeval.php
+END
+block.textformat.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/block.textformat.php
+END
+function.popup.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/function.popup.php
+END
+function.assign_debug_info.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/function.assign_debug_info.php
+END
+modifier.oxenclose.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/879/trunk/eshop/core/smarty/plugins/modifier.oxenclose.php
+END
+outputfilter.trimwhitespace.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/outputfilter.trimwhitespace.php
+END
+function.oxscript.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/879/trunk/eshop/core/smarty/plugins/function.oxscript.php
+END
+modifier.regex_replace.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/modifier.regex_replace.php
+END
+function.counter.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/function.counter.php
+END
+emos.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/879/trunk/eshop/core/smarty/plugins/emos.php
+END
+function.html_options.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/function.html_options.php
+END
+function.oxcontent.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/879/trunk/eshop/core/smarty/plugins/function.oxcontent.php
+END
+insert.oxid_fblogin.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/643/trunk/eshop/core/smarty/plugins/insert.oxid_fblogin.php
+END
+function.mailto.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/function.mailto.php
+END
+function.popup_init.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/function.popup_init.php
+END
+function.debug.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/function.debug.php
+END
+function.oxmailto.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/643/trunk/eshop/core/smarty/plugins/function.oxmailto.php
+END
+insert.oxid_tracker.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/643/trunk/eshop/core/smarty/plugins/insert.oxid_tracker.php
+END
+function.html_select_date.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/function.html_select_date.php
+END
+function.html_checkboxes.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/261/trunk/eshop/core/smarty/plugins/function.html_checkboxes.php
+END

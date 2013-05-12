@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/checkout/inc
+END
+payment_oxidcashondel.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/checkout/inc/payment_oxidcashondel.tpl
+END
+payment_oxidcreditcard.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/checkout/inc/payment_oxidcreditcard.tpl
+END
+basketcontents.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/checkout/inc/basketcontents.tpl
+END
+trustedshops.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/558/trunk/eshop/out/azure/tpl/page/checkout/inc/trustedshops.tpl
+END
+wrapping.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/checkout/inc/wrapping.tpl
+END
+options.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/checkout/inc/options.tpl
+END
+payment_other.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/checkout/inc/payment_other.tpl
+END
+payment_oxiddebitnote.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/checkout/inc/payment_oxiddebitnote.tpl
+END
+steps.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/879/trunk/eshop/out/azure/tpl/page/checkout/inc/steps.tpl
+END

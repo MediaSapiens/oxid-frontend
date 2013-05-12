@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/879/trunk/eshop/out/azure/tpl/layout
+END
+popup.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/498/trunk/eshop/out/azure/tpl/layout/popup.tpl
+END
+header.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/661/trunk/eshop/out/azure/tpl/layout/header.tpl
+END
+sidebar.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/879/trunk/eshop/out/azure/tpl/layout/sidebar.tpl
+END
+base.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/879/trunk/eshop/out/azure/tpl/layout/base.tpl
+END
+page.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/879/trunk/eshop/out/azure/tpl/layout/page.tpl
+END
+footer.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/879/trunk/eshop/out/azure/tpl/layout/footer.tpl
+END
